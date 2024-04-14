@@ -1,4 +1,5 @@
 const router = require("../routes");
+// copied from: https://gist.github.com/claraj/a4687f975076efd0bc9e3902f4c7f741
 const questions = [
     {
         'question': 'Live in a house shaped like a triangle or a house shaped like a circle?',
